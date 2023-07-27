@@ -1,3 +1,5 @@
+<h1 align="center">
+Hi, I'm Derin Malsa!
  ## About 
 Qualified as a QA engineer of manual and automatic and also a Bachelor of Business Management. 
 I have completed some projects in API and Web testing manual testing and automated testing and I used various tools (Java, Selenium, Postman, Rest Assured, Serenity BDD, Cucumber, and many more). 
