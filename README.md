@@ -13,3 +13,14 @@ With these skills, I am highly interested in pursuing a career as a QA in tech i
 ## Social Media
 [Instagram](https://www.instagram.com/d_malsa) <br>
 [LinkedIn](https://www.linkedin.com/in/derin-malsa) <br>
+
+### 🧰 Languages and Tools
+
+![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java&color=181717)
+![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium&color=181717&logoColor=white)
+![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber&color=181717&logoColor=white)
+![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman&color=181717&logoColor=white)
+![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd&color=181717&logoColor=white)
+![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql&color=6b4f31&logoColor=white)
+![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql&color=181717&logoColor=white)
+
