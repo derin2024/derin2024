@@ -4,4 +4,5 @@ I have completed some projects in API and Web testing manual testing and automat
 With these skills, I am highly interested in pursuing a career as a QA in tech industries..
 
 ## Social Media
-[Instagram](https://github.com/ukifar](https://www.instagram.com/d_malsa) <br>
+[Instagram] (https://github.com/ukifar](https://www.instagram.com/d_malsa) <br>
+[LinkedIn] ([https://www.instagram.com/d_malsa](https://www.linkedin.com/in/derin-malsa]) <br>
