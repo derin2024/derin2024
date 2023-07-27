@@ -20,5 +20,5 @@ With these skills, I am highly interested in pursuing a career as a QA in tech i
       <p>Management Project</p>
       <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&color=121B4F">
 </div>
-## Social Media:
+## Social Media
 [Instagram]([https://github.com/ukifar](https://www.instagram.com/d_malsa) <br>
