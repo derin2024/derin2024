@@ -6,9 +6,11 @@ Hi, I'm Derin Malsa!
 </h1>
  
  ## About 
-Qualified as a QA engineer of manual and automatic and also a Bachelor of Business Management. 
-I have completed some projects in API and Web testing manual testing and automated testing and I used various tools (Java, Selenium, Postman, Rest Assured, Serenity BDD, Cucumber, and many more). 
-With these skills, I am highly interested in pursuing a career as a QA in tech industries..
+Qualified as a QA engineer of manual and automatic and also a Bachelor of Business Management. I have completed
+some projects in API and Web testing manual testing and automated testing and I used various tools (Java, Selenium,
+Postman, Rest Assured, Serenity BDD, Cucumber, and many more). I am proactive with great attention to detail and
+analytical thinker with a strong desire to learn and grow. With these skills, I am highly interested in pursuing a career
+as a QA in tech industries.
 
 ## Social Media
 [Instagram](https://www.instagram.com/d_malsa) <br>
@@ -30,7 +32,6 @@ With these skills, I am highly interested in pursuing a career as a QA in tech i
 	</a>
 	<br/>
 <br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br/>
 
