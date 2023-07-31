@@ -8,7 +8,14 @@ Hi, I'm Derin Malsa!
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
- 
+ <div id="badges">
+  <a href="https://www.linkedin.com/in/derin-malsa">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="https://www.instagram.com/d_malsa">
+    <img src="https://img.shields.io/badge/Instagram-chocolate?logo=Instagram&logoColor=white&style=for-the-badge"/>
+  </a>
+  </div>
  ## About 
 Qualified as a QA engineer of manual and automatic and also a Bachelor of Business Management. I have completed
 some projects in API and Web testing manual testing and automated testing and I used various tools (Java, Selenium,
@@ -17,14 +24,7 @@ analytical thinker with a strong desire to learn and grow. With these skills, I 
 as a QA in tech industries.
 
 ## Social Media
-<div id="badges">
-  <a href="https://www.linkedin.com/in/derin-malsa">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   <a href="https://www.instagram.com/d_malsa">
-    <img src="https://img.shields.io/badge/Instagram-chocolate?logo=Instagram&logoColor=white&style=for-the-badge"/>
-  </a>
-  </div>
+
 	
 ## Languages and Tools
 
