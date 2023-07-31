@@ -17,15 +17,19 @@ Hi, I'm Derin Malsa!
 	  <img src="https://img.shields.io/badge/gmail-red?logo=Gmail&logoColor=white&style=for-the-badge"/>   
   </a>
   </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+	
+### :woman_technologist: About Me :
 
- ## About 
 Qualified as a QA engineer of manual and automatic and also a Bachelor of Business Management. I have completed
 some projects in API and Web testing manual testing and automated testing and I used various tools (Java, Selenium,
 Postman, Rest Assured, Serenity BDD, Cucumber, and many more). I am proactive with great attention to detail and
 analytical thinker with a strong desire to learn and grow. With these skills, I am highly interested in pursuing a career
 as a QA in tech industries.
 	
-## Languages and Tools
+### :hammer_and_wrench: Languages and Tools :
 
 ![Java](https://img.shields.io/badge/JAVA-blue?style=for-the-badge&logo=java&logoColor=white%22%20alt=%22java%20badge%22)
 ![Selenium Webdriver](https://img.shields.io/badge/selenium-blue?logo=selenium&logoColor=white&style=for-the-badge)
