@@ -22,16 +22,6 @@ some projects in API and Web testing manual testing and automated testing and I 
 Postman, Rest Assured, Serenity BDD, Cucumber, and many more). I am proactive with great attention to detail and
 analytical thinker with a strong desire to learn and grow. With these skills, I am highly interested in pursuing a career
 as a QA in tech industries.
-
-## Social Media
- <div id="badges">
-  <a href="https://www.linkedin.com/in/derin-malsa">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   <a href="https://www.instagram.com/d_malsa">
-    <img src="https://img.shields.io/badge/Instagram-chocolate?logo=Instagram&logoColor=white&style=for-the-badge"/>
-  </a>
-  </div>
 	
 ## Languages and Tools
 
