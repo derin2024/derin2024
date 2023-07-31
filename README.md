@@ -48,4 +48,4 @@ as a QA in tech industries.
 <table style="border: none">
 
 </table>
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derin2024&layout=compact&theme=vision-friendly-dark)](https://github.com/derin2024/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derin2024)](https://github.com/derin2024/github-readme-stats)
