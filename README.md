@@ -21,7 +21,7 @@ Hi, I'm Derin Malsa!
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 	
-### 👩‍💻: About Me :
+### 🧑‍💻: About Me :
 
 Qualified as a QA engineer of manual and automatic and also a Bachelor of Business Management. I have completed
 some projects in API and Web testing manual testing and automated testing and I used various tools (Java, Selenium,
