@@ -28,9 +28,9 @@ as a QA in tech industries.
 ![Java](https://img.shields.io/badge/JAVA-blue?style=for-the-badge&logo=java&logoColor=white%22%20alt=%22java%20badge%22)
 ![Selenium Webdriver](https://img.shields.io/badge/selenium-blue?logo=selenium&logoColor=white&style=for-the-badge)
 ![Cucumber](https://img.shields.io/badge/cucumber-blue?logo=cucumber&logoColor=white&style=for-the-badge)
-![Postman]((https://img.shields.io/badge/postman-blue?logo=postman&logoColor=white&style=for-the-badge)
-![Serenity BDD](https://img.shields.io/badge/SerenityBDD-biru?logo=SerenityBDD&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql&color=181717&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-blue?logo=postman&logoColor=white&style=for-the-badge)
+![Serenity BDD](https://img.shields.io/badge/SerenityBDD-blue?logo=SerenityBDD&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/mysql-blue?logo=mysql&logoColor=white&style=for-the-badge)
 
 ### Top Language
 <p align="left">
