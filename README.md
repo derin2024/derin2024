@@ -6,6 +6,15 @@ Hi, I'm Derin Malsa!
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<div id="header" align="center">
+ <div id="badges">
+  <a href="https://www.linkedin.com/in/derin-malsa">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="https://www.instagram.com/d_malsa">
+    <img src="https://img.shields.io/badge/Instagram-chocolate?logo=Instagram&logoColor=white&style=for-the-badge"/>
+  </a>
+  </div>
 
  ## About 
 Qualified as a QA engineer of manual and automatic and also a Bachelor of Business Management. I have completed
