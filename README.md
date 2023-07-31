@@ -14,7 +14,7 @@ as a QA in tech industries.
 
 ## Social Media
 [Instagram](https://www.instagram.com/d_malsa) <br>
-[LinkedIn](https://www.linkedin.com/in/derin-malsa) <br>
+[ https://img.shields.io/badge/LinkedIn-blue](https://www.linkedin.com/in/derin-malsa) <br>
 
 ### Languages and Tools
 
