@@ -15,7 +15,7 @@ analytical thinker with a strong desire to learn and grow. With these skills, I 
 as a QA in tech industries.
 
 ## Social Media
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?derin2024&style=flat-square&color=blue" alt=""/>
  <div id="badges">
   <a href="https://www.linkedin.com/in/derin-malsa">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
