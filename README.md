@@ -14,20 +14,15 @@ as a QA in tech industries.
 
 ## Social Media
 <div id="badges">
-  <a href="https://www.instagram.com/d_malsa">
+  <a href="https://www.linkedin.com/in/derin-malsa">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>/>
+   <a href="https://www.instagram.com/d_malsa">
+    <img src="https://img.shields.io/badge/Instagram-chocolate?logo=Instagram&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-[Instagram](https://www.instagram.com/d_malsa) <br>
-[Instagram](https://www.linkedin.com/in/derin-malsa) <br>
-
-### Languages and Tools
+  </div>
+	
+## Languages and Tools
 
 ![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java&color=181717)
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium&color=181717&logoColor=white)
