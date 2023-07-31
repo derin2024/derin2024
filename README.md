@@ -6,6 +6,15 @@ Hi, I'm Derin Malsa!
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+ ## About 
+Qualified as a QA engineer of manual and automatic and also a Bachelor of Business Management. I have completed
+some projects in API and Web testing manual testing and automated testing and I used various tools (Java, Selenium,
+Postman, Rest Assured, Serenity BDD, Cucumber, and many more). I am proactive with great attention to detail and
+analytical thinker with a strong desire to learn and grow. With these skills, I am highly interested in pursuing a career
+as a QA in tech industries.
+
+## Social Media
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
  <div id="badges">
   <a href="https://www.linkedin.com/in/derin-malsa">
@@ -15,15 +24,6 @@ Hi, I'm Derin Malsa!
     <img src="https://img.shields.io/badge/Instagram-chocolate?logo=Instagram&logoColor=white&style=for-the-badge"/>
   </a>
   </div>
- ## About 
-Qualified as a QA engineer of manual and automatic and also a Bachelor of Business Management. I have completed
-some projects in API and Web testing manual testing and automated testing and I used various tools (Java, Selenium,
-Postman, Rest Assured, Serenity BDD, Cucumber, and many more). I am proactive with great attention to detail and
-analytical thinker with a strong desire to learn and grow. With these skills, I am highly interested in pursuing a career
-as a QA in tech industries.
-
-## Social Media
-
 	
 ## Languages and Tools
 
