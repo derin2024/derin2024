@@ -14,7 +14,7 @@ Hi, I'm Derin Malsa!
    <a href="https://www.instagram.com/d_malsa">
     <img src="https://img.shields.io/badge/Instagram-chocolate?logo=Instagram&logoColor=white&style=for-the-badge"/>
 	   </a>
-	  <img src="https://img.shields.io/badge/gmail-blue?logo=Gmail&logoColor=white&style=for-the-badge"/>   
+	  <img src="https://img.shields.io/badge/gmail-red?logo=Gmail&logoColor=white&style=for-the-badge"/>   
   </a>
   </div>
 
@@ -31,8 +31,8 @@ as a QA in tech industries.
 ![Selenium Webdriver](https://img.shields.io/badge/selenium-blue?logo=selenium&logoColor=white&style=for-the-badge)
 ![Cucumber](https://img.shields.io/badge/cucumber-blue?logo=cucumber&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/postman-blue?logo=postman&logoColor=white&style=for-the-badge)
-![Serenity BDD](https://img.shields.io/badge/SerenityBDD-blue?logo=SerenityBDD&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/mysql-blue?logo=mysql&logoColor=white&style=for-the-badge)
+![Serenity BDD](https://img.shields.io/badge/SerenityBDD-blue?logo=SerenityBDD&logoColor=white&style=for-the-badge)
 
 ### Top Language
 <p align="left">
